@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life is rolling</title>
+    <link>https://prod.d1htb4z13s2sfn.amplifyapp.com/</link>
+    <description>Recent content on Life is rolling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Tue, 31 May 2022 17:28:28 +0530</lastBuildDate><atom:link href="https://prod.d1htb4z13s2sfn.amplifyapp.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://prod.d1htb4z13s2sfn.amplifyapp.com/posts/my-first-post/</link>
+      <pubDate>Tue, 31 May 2022 17:28:28 +0530</pubDate>
+      
+      <guid>https://prod.d1htb4z13s2sfn.amplifyapp.com/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
